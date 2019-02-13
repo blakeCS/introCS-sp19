@@ -11,6 +11,6 @@
 4. Commit the update
 
 ### Part 1: Introduction to Swift
-* Fixing Your Morning (Naming)
+* [Fixing Your Morning](introCS-sp19/02_Naming.playground/Pages/12-ExerciseMorning.xcplaygroundpage/Contents.swift) (Naming)
 * Exercise: A Restaurant (Strings)
 * Exercise: Displaying Values (Strings)
