@@ -5,6 +5,7 @@
 34 + 56 + 230
 
 1000 - 300
+var x = 90;
 
 //: For multiplication, use the asterisk `*` :
 3 * 100
