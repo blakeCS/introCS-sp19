@@ -12,5 +12,5 @@
 
 ### Part 1: Introduction to Swift
 * [Fixing Your Morning](introCS-sp19/02_Naming.playground/Pages/12-ExerciseMorning.xcplaygroundpage/Contents.swift) (Naming)
-* Exercise: A Restaurant (Strings)
-* Exercise: Displaying Values (Strings)
+* [Exercise: A Restaurant](introCS-sp19/03_Strings.playground/Pages/Exercise-A Restaurant.xcplaygroundpage/Contents.swift) (Strings)
+* [Exercise: Displaying Values](introCS-sp19/03_Strings.playground/Pages/Exercise-Displaying Values.xcplaygroundpage/Contents.swift) (Strings)
